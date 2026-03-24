@@ -3,7 +3,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/ArXiv-2603.20644-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.20644)&nbsp;
-[![Hugging Face](https://img.shields.io/badge/🤗%20Dataset-ScaleEdit-12M-yellow)](https://huggingface.co/datasets/InternVL-U/ScaleEdit-12M)&nbsp;
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-ScaleEdit--12M-yellow)](https://huggingface.co/datasets/InternVL-U/ScaleEdit-12M)&nbsp;
 
 </div>
 
